@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. dogs
+2. ice cream
+1. rocky road
